@@ -1,0 +1,20 @@
+{
+  "title": "Embedded Systems Intern (IoT + C Programming)",
+  "organization": "MicroSys Labs",
+  "type": "Internship",
+  "required_skills": [
+    "C",
+    "Embedded Systems",
+    "Microcontrollers",
+    "IoT",
+    "RTOS"
+  ],
+  "duration": "4 months (On-site)",
+  "description": "Work on firmware development and sensor integration for real-time IoT applications using STM32 microcontrollers and C programming.",
+  "role": "Write embedded C firmware\nDebug microcontroller hardware\nCollaborate on PCB testing\nOptimize memory for IoT tasks",
+  "faculty": "",
+  "stipend": "\u20b910,000/month",
+  "mandatory_certifications": [
+    "Embedded C Programming"
+  ]
+}

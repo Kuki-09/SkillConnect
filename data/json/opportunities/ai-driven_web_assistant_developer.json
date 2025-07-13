@@ -1,0 +1,19 @@
+{
+  "title": "AI-Driven Web Assistant Developer",
+  "organization": "NeuroSync Technologies",
+  "type": "Internship",
+  "required_skills": [
+    "Python",
+    "Node.js",
+    "React.js",
+    "MongoDB",
+    "AWS Lambda",
+    "Natural Language Processing"
+  ],
+  "duration": "3 months (Remote)",
+  "description": "We are looking for an intern to build AI-powered web tools with a focus on conversational assistants. You will be creating backend APIs, building interactive dashboards, and integrating cloud-based NLP models. Ideal for those interested in AI applications and scalable full-stack systems.",
+  "role": " Develop RESTful APIs using Node.js\nBuild dynamic interfaces with React\nWork on NLP pipelines using Python\nIntegrate services with AWS Lambda and DynamoDB\nParticipate in agile sprints with cross-functional teams",
+  "faculty": "",
+  "stipend": "\u20b918,000/month",
+  "mandatory_certifications": []
+}

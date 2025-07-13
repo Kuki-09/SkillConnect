@@ -1,0 +1,21 @@
+{
+  "title": " AI-Powered Resume Analyzer for Candidate Shortlisting",
+  "organization": " InnovateAI Labs (Academic Collaboration Project)",
+  "type": "Internship",
+  "required_skills": [
+    "Python",
+    "LangChain",
+    "RAG",
+    "FAISS",
+    "Hugging Face\n\nNLP & Semantic Search\n\nStreamlit or any web-based Python framework\n\nGitHub for version control"
+  ],
+  "duration": " 2\u20133 months (Remote)",
+  "description": "This project involves building an AI-powered resume screening system capable of understanding context from unstructured documents. It aims to help recruiters quickly identify the most relevant candidates and give students actionable feedback to improve their resumes. You will work with real-world resumes, job descriptions, and integrate cloud-based deployment for scalability.",
+  "role": "Design and develop an AI-based tool that can analyze resumes and match them to job descriptions using GenAI and NLP.\n\nUse LangChain + RAG to enable document-based querying and semantic search.\n\nBuild a web-based frontend using Streamlit to visualize match scores, skills gap analysis, and actionable suggestions.\n\nDeploy the model using Microsoft Azure or AWS Lambda for testing.",
+  "faculty": "",
+  "stipend": "Not Applicable",
+  "mandatory_certifications": [
+    "Any certification in NLP or ML (e.g.",
+    "AWS ML)"
+  ]
+}

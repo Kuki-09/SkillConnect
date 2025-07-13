@@ -1,0 +1,37 @@
+{
+  "name": "Rahul Verma",
+  "email": "rahul.verma@noemail.bits.edu",
+  "phone": "+91 9864856342",
+  "social_links": [
+    "www.linkedin.com/in/rahulvermaai"
+  ],
+  "objective": "Final-year engineering student passionate about AI and data analytics. Looking to solve real- world problems using machine learning and cloud technologies.",
+  "certifications": [
+    "\u00b7 Google TensorFlow Developer Certificate (2024)",
+    "\u00b7 ML Specialization - Andrew Ng, Coursera",
+    "\u00b7 Database Foundations - Oracle Academy"
+  ],
+  "skills": [
+    "\u00b7 Programming: Python, C++, SQL",
+    "\u00b7 Frameworks: TensorFlow, Flask",
+    "\u00b7 Database: PostgreSQL, SQLite"
+  ],
+  "experience": [
+    "ML Intern - DeepEdge AI, Bangalore Jan 2024 - May 2024",
+    "Built image classification models for industrial inspection.",
+    "Wrote model pipelines and performance evaluation scripts."
+  ],
+  "projects": [
+    "Breast Cancer Predictor",
+    "Trained logistic regression and SVM models on UCI dataset.",
+    "Evaluated with 10-fold cross-validation (accuracy: 93%).",
+    "AI Job Matcher Bot",
+    "Built a chatbot with LangChain and OpenAI API for resume-job matching."
+  ],
+  "education_raw": "B.E. in Computer Engineering, BITS Pilani\nExpected Graduation: Dec 2024\nGPA: 9.1/10",
+  "education": [
+    "B.E. in Computer Engineering, BITS Pilani",
+    "Expected Graduation: Dec 2024",
+    "GPA: 9.1/10"
+  ]
+}

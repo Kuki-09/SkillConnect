@@ -1,0 +1,19 @@
+{
+  "title": "AI-Powered Resume Screening Assistant",
+  "organization": "IIT Kanpur",
+  "type": "Project",
+  "required_skills": [
+    "Python",
+    "SQL",
+    "LangChain",
+    "OpenAI",
+    "Flask",
+    "TensorFlow"
+  ],
+  "duration": "1 months, hybrid",
+  "description": "Develop an AI assistant that screens job resumes, ranks them based on job descriptions, and provides interview suggestions. The tool will use LangChain with OpenAI for semantic matching and Flask for a web interface. Integration with a PostgreSQL database will be required for storing parsed resume data and job roles.",
+  "role": "Build resume parsing pipeline using NLP\nImplement AI matching logic using LangChain + OpenAI\nCreate web interface using Flask\nDesign PostgreSQL database schema\nTrain and evaluate matching models",
+  "faculty": "Dr. Ramesh Sharma",
+  "stipend": "Unpaid (Mentorship and project certificate provided)",
+  "mandatory_certifications": []
+}

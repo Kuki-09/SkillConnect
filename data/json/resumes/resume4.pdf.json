@@ -1,0 +1,35 @@
+{
+  "name": "Anjali Gupta",
+  "email": "anjaligupta@noemail.du.ac.in",
+  "phone": "+91 8473873407",
+  "social_links": [
+    "www.linkedin.com/in/anjali-gupta"
+  ],
+  "objective": "Aspiring HR professional with a passion for organizational psychology and people operations.\nLooking to build HR solutions that promote inclusivity and engagement.",
+  "certifications": [
+    "\u00b7 Recruitment and Selection - Udemy (2024)",
+    "\u00b7 Organizational Behavior - NPTEL",
+    "\u00b7 Foundations of Diversity & Inclusion - edX"
+  ],
+  "skills": [
+    "HR Tools: BambooHR, Workday",
+    "Soft Skills: Empathy, Communication, Conflict Resolution",
+    "Research: Survey design, SPSS analysis"
+  ],
+  "experience": [
+    "HR Intern - Zenith Tech Pvt Ltd, Delhi Jan 2024 - Apr 2024",
+    "Conducted employee onboarding sessions and managed feedback surveys.",
+    "Supported recruitment process by screening resumes and scheduling interviews."
+  ],
+  "projects": [
+    "Employee Engagement Study",
+    "Designed a pulse survey and presented findings to HR leadership.",
+    "Diversity Hiring Dashboard",
+    "Built a recruitment analytics tracker using Excel and Tableau."
+  ],
+  "education_raw": "B.A. in Psychology, University of Delhi\nExpected Graduation: June 2025 | GPA: 8.6/10",
+  "education": [
+    "B.A. in Psychology, University of Delhi",
+    "Expected Graduation: June 2025 | GPA: 8.6/10"
+  ]
+}

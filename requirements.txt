@@ -1,0 +1,14 @@
+streamlit
+PyMuPDF
+azure-ai-formrecognizer
+azure-core
+python-dotenv
+langchain-core
+langchain-community
+ollama
+azure-ai-documentintelligence
+scikit-learn
+sentence-transformers
+azure-ai-textanalytics
+spacy
+numpy

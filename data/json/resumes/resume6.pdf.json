@@ -1,0 +1,35 @@
+{
+  "name": "Sneha Kapoor",
+  "email": "sneha.kapoor@techmail.com",
+  "phone": "+91 9988776655",
+  "social_links": [
+    "www.linkedin.com/in/snehakapoor"
+  ],
+  "objective": "Enthusiastic computer science student with a strong interest in natural language processing and AI systems. Seeking opportunities to apply theoretical knowledge in practical industry settings.",
+  "certifications": [
+    "\u00b7 AWS Certified Cloud Practitioner (2023)",
+    "\u00b7 Full Stack Web Development - Udemy",
+    "\u00b7 Database Design and Management - Coursera"
+  ],
+  "skills": [
+    "\u00b7 Programming: Java, Python, JavaScript",
+    "\u00b7 Frameworks: React, Node.js",
+    "\u00b7 Database: MySQL, MongoDB"
+  ],
+  "experience": [
+    "Software Engineering Intern - CloudNova Systems, Pune Jan 2024 - Apr 2024",
+    "\u00b7 Developed and deployed REST APIs using Node.js and Express.",
+    "\u00b7 Worked with AWS Lambda functions to automate file processing."
+  ],
+  "projects": [
+    "Smart Farming Assistant",
+    "\u00b7 Built a real-time crop recommendation system using Python and Scikit-learn. Integrated it with a web dashboard using Flask.",
+    "Online Portfolio Builder",
+    "\u00b7 Designed a drag-and-drop website builder using React and Firebase."
+  ],
+  "education_raw": "B.Tech in Information Technology, VIT Vellore\nExpected Graduation: May 2025 | GPA: 8.9/10",
+  "education": [
+    "B.Tech in Information Technology, VIT Vellore",
+    "Expected Graduation: May 2025 | GPA: 8.9/10"
+  ]
+}

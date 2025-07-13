@@ -1,0 +1,36 @@
+{
+  "name": "Shalini Malhotra",
+  "email": "shalini432@noemail.shu.edu",
+  "phone": "(973) 761-9355",
+  "social_links": [
+    "www.linkedin.com/in/shalini-malhotra23"
+  ],
+  "objective": "A motivated Computer Science student with strong communication and technical skills. Seeking opportunities to apply data and software engineering knowledge in practical settings.",
+  "certifications": [
+    "\u00b7 AWS Cloud Practitioner - Amazon Web Services (2024)",
+    "\u00b7 Full-Stack Web Development - Coursera (Meta, 2023)",
+    "\u00b7 SQL for Data Science - University of California, Davis (2022)"
+  ],
+  "skills": [
+    "\u00b7 Programming Languages: Python, Java, JavaScript",
+    "\u00b7 Frameworks & Libraries: React, Node.js, Pandas",
+    "\u00b7 Databases: MySQL, MongoDB"
+  ],
+  "experience": [
+    "Software Development Intern - NexaTech Solutions, New York, NY June 2024 - August 2024",
+    "Collaborated on backend APIs for a logistics dashboard using Node.js and Express.",
+    "Integrated MongoDB with RESTful APIs to manage customer shipment data."
+  ],
+  "projects": [
+    "Smart Attendance Tracker",
+    "Built a facial recognition-based system using Python and OpenCV.",
+    "Deployed on Raspberry Pi and logged data to MySQL.",
+    "COVID-19 Dashboard",
+    "Interactive dashboard using React and Chart.js.",
+    "Pulled real-time data from public APIs."
+  ],
+  "education_raw": "B.S. in Computer Science, Seton Hall University, South Orange, NJ Expected Graduation: May 2025 | GPA: 3.8/4.0",
+  "education": [
+    "B.S. in Computer Science, Seton Hall University, South Orange, NJ Expected Graduation: May 2025 | GPA: 3.8/4.0"
+  ]
+}

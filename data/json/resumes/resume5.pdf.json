@@ -1,0 +1,35 @@
+{
+  "name": "Ayaan Sinha",
+  "email": "ayaan.sinha23@noemail.iimb.ac.in",
+  "phone": "9756534332",
+  "social_links": [
+    "www.linkedin.com/in/ayaansinha"
+  ],
+  "objective": "Detail-oriented Business Analyst eager to solve problems using data-driven insights.\nLooking to work in fast-paced environments analyzing trends and business performance.",
+  "certifications": [
+    "\u00b7 Business Analytics Specialization - Wharton, Coursera",
+    "\u00b7 Tableau Desktop Specialist (2023)",
+    "\u00b7 Statistics for Data Science - Udemy"
+  ],
+  "skills": [
+    "Tools: Excel, Power BI, Tableau",
+    "Tech: SQL, Python (Pandas)",
+    "Analytics: Forecasting, Hypothesis Testing, A/B Testing"
+  ],
+  "experience": [
+    "Business Analyst Intern - Infosight Research, Bangalore May 2024 - July 2024",
+    "Delivered BI dashboards with Power BI to track sales KPIs.",
+    "Conducted A/B testing and customer churn analysis."
+  ],
+  "projects": [
+    "Sales Forecast Model",
+    "Built time-series models in Python to forecast product demand.",
+    "Customer Retention Analysis",
+    "Used SQL to analyze churn patterns and recommended interventions."
+  ],
+  "education_raw": "MBA - Business Analytics, IIM Bangalore\nExpected Graduation: March 2025 | CGPA: 3.6/4.0",
+  "education": [
+    "MBA - Business Analytics, IIM Bangalore",
+    "Expected Graduation: March 2025 | CGPA: 3.6/4.0"
+  ]
+}

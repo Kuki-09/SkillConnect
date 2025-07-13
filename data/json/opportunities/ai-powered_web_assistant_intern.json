@@ -1,0 +1,22 @@
+{
+  "title": "AI-Powered Web Assistant Intern",
+  "organization": "IntelliNova AI",
+  "type": "Internship",
+  "required_skills": [
+    "Python",
+    "Node.js",
+    "React",
+    "MongoDB",
+    "AWS",
+    "Machine Learning"
+  ],
+  "duration": "3 months, Remote",
+  "description": "Join our research-driven AI team to build intelligent web tools using React, Node.js, and AWS. You'll work on natural language powered assistants and recommendation engines.",
+  "role": "\u2022 Build REST APIs with Node.js\n\u2022 Design front-end dashboards in React\n\u2022 Integrate NLP-based microservices using Python\n\u2022 Collaborate in cloud deployment (AWS Lambda)",
+  "faculty": "",
+  "stipend": "\u20b920,000/month",
+  "mandatory_certifications": [
+    "AWS",
+    "Full Stack Web Development"
+  ]
+}
