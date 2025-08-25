@@ -13,9 +13,6 @@ from utils.entity_extractor import (
 
 model = SentenceTransformer("all-MiniLM-L6-v2", device="cpu")
 
-def compute_embedding(text: str) -> np.ndarray:
-    return model.encode([text], convert_to_numpy=True)[0]
-
 def embed_list(items: List[str]) -> List[np.ndarray]:
     return [model.encode([item], convert_to_numpy=True)[0] for item in items]
 
