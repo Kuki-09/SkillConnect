@@ -16,7 +16,7 @@ if "matches" not in st.session_state:
 if "suggestions" not in st.session_state:
     st.session_state.suggestions = ""
 
-st.set_page_config(page_title="Smart Internship & Project Matcher", page_icon="🤖", layout="wide")
+st.set_page_config(page_title="SkillConnect", page_icon="🤖", layout="wide")
 st.markdown("""
     <style>
     html, body, [class*="css"] {
@@ -70,7 +70,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("🎯 Smart Internship & Project Matcher")
+st.title("🎯 SkillConnect")
 st.markdown("Empowering students and faculty with intelligent matching.")
 
 st.sidebar.markdown("""
