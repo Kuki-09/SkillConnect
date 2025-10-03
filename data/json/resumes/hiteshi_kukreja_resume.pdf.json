@@ -1,0 +1,39 @@
+{
+  "name": "Hiteshi Kukreja",
+  "email": "hiteshi724@gmail.com",
+  "phone": "",
+  "social_links": [
+    "https://github.com/Kuki-09 linkedin.com/in/hiteshi-kukreja"
+  ],
+  "objective": "experience in GenAI,\ntechnical skills by contributing to innovative AI-driven solutions and real-world data challenges.",
+  "certifications": [
+    "\u00b7 Microsoft Certified: Azure AI Fundamentals",
+    "\u00b7 Microsoft Applied Skills: Create an intelligent document processing solution with Azure AI Document Intelligence",
+    "\u00b7 AWS Academy Graduate - AWS Academy Machine Learning",
+    ". Eduskills AWS AI-ML Virtual Internship"
+  ],
+  "skills": [
+    "\u00b7 Programming Languages: C++, Java, Python",
+    "\u00b7 GenAI Tools: LangChain, RAG",
+    "\u00b7 Cloud Technologies: Microsoft Azure",
+    "\u00b7 Database: MySQL, MongoDB",
+    "\u00b7 Frameworks & Libraries: Java AWT, Java Swing, Streamlit",
+    "\u00b7 Version Control: Git, GitHub",
+    "\u00b7 Other Tools: Power BI, NetBeans, Jupyter Notebook"
+  ],
+  "experience": [
+    "AI and Data Science"
+  ],
+  "projects": [
+    "Document-Based QA System Using LangChain and RAG",
+    "\u00b7 Built a document-based QA system using LangChain and Retrieval Augmented Generation (RAG), enabling accurate, context-aware responses from user-uploaded files.",
+    "\u00b7 Integrated LLaMA 3.2 (Ollama) for natural language processing, Hugging Face embeddings for semantic search, and FAISS for efficient vector retrieval."
+  ],
+  "education_raw": "Bharati Vidyapeeth's College of Engineering for Women, Pune Bachelor of Engineering in Computer Engineering | CGPA - 8.86\nNov 2022 - Present\nMES Abasaheb Garware College, Pune HSC Board | 81%\nPodar International School, Pune CBSE Board | 88.8%",
+  "education": [
+    "Bharati Vidyapeeth's College of Engineering for Women, Pune Bachelor of Engineering in Computer Engineering | CGPA - 8.86",
+    "Nov 2022 - Present",
+    "MES Abasaheb Garware College, Pune HSC Board | 81%",
+    "Podar International School, Pune CBSE Board | 88.8%"
+  ]
+}

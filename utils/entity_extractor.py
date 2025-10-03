@@ -1,6 +1,5 @@
 import os
 import re
-import json
 import spacy
 from typing import List
 from dotenv import load_dotenv
@@ -11,6 +10,9 @@ load_dotenv()
 
 AZURE_TEXT_ANALYTICS_ENDPOINT = os.getenv("AZURE_TEXT_ANALYTICS_ENDPOINT")
 AZURE_TEXT_ANALYTICS_KEY = os.getenv("AZURE_TEXT_ANALYTICS_KEY")
+
+if not AZURE_TEXT_ANALYTICS_ENDPOINT or not AZURE_TEXT_ANALYTICS_KEY:
+    raise ValueError("Azure Text Analytics credentials not found. Check .env file.")
 
 client = TextAnalyticsClient(
     endpoint=AZURE_TEXT_ANALYTICS_ENDPOINT,

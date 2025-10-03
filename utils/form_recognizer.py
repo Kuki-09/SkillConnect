@@ -5,9 +5,12 @@ from azure.ai.documentintelligence import DocumentIntelligenceClient
 
 load_dotenv()
 
-AZURE_ENDPOINT = os.getenv("AZURE_FORM_RECOGNIZER_ENDPOINT")
-AZURE_KEY = os.getenv("AZURE_FORM_RECOGNIZER_KEY")
+AZURE_ENDPOINT = os.getenv("AZURE_DI_ENDPOINT")
+AZURE_KEY = os.getenv("AZURE_DI_KEY")
 AZURE_CUSTOM_MODEL_ID = os.getenv("AZURE_CUSTOM_MODEL_ID")
+
+if not AZURE_ENDPOINT or not AZURE_KEY:
+    raise ValueError("Azure credentials not found. Please check .env file.")
 
 client = DocumentIntelligenceClient(
     endpoint=AZURE_ENDPOINT,
